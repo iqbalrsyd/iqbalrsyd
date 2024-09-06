@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iqbal Hidayat Rasyad</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdeveloper-gifs&psig=AOvVaw1nbKuPcNmVVmV-CM0wcP9u&ust=1725681681319000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjn8LC3rYgDFQAAAAAdAAAAABAE" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalrsyd&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalrsyd" /> </p>
 
 - 📫 How to reach me **rasyad3003@gmail.com**
 
